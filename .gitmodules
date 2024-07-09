@@ -1,6 +1,6 @@
 [submodule "src/velodyne"]
 	path = src/velodyne
-	url = https://github.com/username/velodyne.git
+	url = https://github.com/yodagil/velodyne.git
 [submodule "src/vision_msgs"]
 	path = src/vision_msgs
-	url = https://github.com/username/vision_msgs.git
+	url = https://github.com/yodagil/vision_msgs.git
